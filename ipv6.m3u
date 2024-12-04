@@ -175,10 +175,6 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东V6
-#EXTINF:-1 tvg-name="电影轮播-周星驰 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
-http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
-#EXTINF:-1 tvg-name="电影轮播-林正英" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-林正英.png" group-title="电影频道",电影轮播-林正英
-http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/美亚电影台.png" group-title="电影频道",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/popc.png" group-title="电影频道",POPC电影
