@@ -184,13 +184,13 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/黑莓电影.png" group-title="电影频道",黑莓电影
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018
 #EXTINF:-1 tvg-name="北京4K电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/IPTV4K.png" group-title="电影频道",北京4K电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/IPTV淘电影.png" group-title="电影频道",北京淘电影
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/IPTV淘剧场.png" group-title="电影频道",北京淘剧场
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887497%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266383_0%2CEND&GuardEncType=2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887497%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266383_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/IPTV淘娱乐.png" group-title="电影频道",北京淘娱乐
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887499%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266385_0%2CEND&GuardEncType=2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887499%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266385_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东方影视.png" group-title="电影频道",东方影视
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/精彩影视.png" group-title="电影频道",精彩影视
@@ -226,7 +226,7 @@ http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
 #EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/求索生活.png" group-title="求索自然",求索生活
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/求索动物.png" group-title="求索自然",求索动物
@@ -264,7 +264,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/环宇新闻.png" group-title="港澳台区",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/寰宇新闻台湾台.png" group-title="港澳台区",寰宇新闻台湾台
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/litv-longturn15
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东森新闻.png" group-title="港澳台区",东森新闻HD
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中视新闻.png" group-title="港澳台区",中视新闻HD
@@ -272,13 +272,13 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中天新闻.png" group-title="港澳台区",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视.png" group-title="港澳台区",民视HD
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv002
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视新闻台.png" group-title="港澳台区",民视新闻台HD
 http://litv.zapi.us.kg/?id=litv-ftv13
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视第一台.png" group-title="港澳台区",民视第一台HD
 http://litv.zapi.us.kg/?id=4gtv-4gtv003
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视台湾台.png" group-title="港澳台区",民视台湾台HD
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv001
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv001
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中视.png" group-title="港澳台区",中视HD
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/华视.png" group-title="港澳台区",华视HD
