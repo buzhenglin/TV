@@ -45,8 +45,6 @@ http://118.79.139.47:6000/rtp/226.0.2.225:9712
 http://118.79.139.47:6000/rtp/226.0.2.216:9640
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
 http://118.79.139.47:6000/rtp/226.0.2.217:9648
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV高尔夫网球.png" group-title="央视付费",CCTV高尔夫网球
-http://[2409:8087:74d9:21::6]/270000001128/9900000094/index.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV风云剧场.png" group-title="央视付费",CCTV风云剧场
 http://118.79.139.47:6000/rtp/226.0.2.227:9728
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
@@ -219,6 +217,8 @@ http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
+#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/求索生活.png" group-title="求索自然",求索生活
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/求索动物.png" group-title="求索自然",求索动物
@@ -253,8 +253,12 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/TVBS.png" group-title="港澳台区",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/非凡新闻.png" group-title="港澳台区",非凡新闻HD
+http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/环宇新闻.png" group-title="港澳台区",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/寰宇新闻台湾台.png" group-title="港澳台区",寰宇新闻台湾台
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-longturn15
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东森新闻.png" group-title="港澳台区",东森新闻HD
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中视新闻.png" group-title="港澳台区",中视新闻HD
@@ -262,11 +266,13 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中天综合台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中天新闻.png" group-title="港澳台区",中天新闻
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视.png" group-title="港澳台区",民视HD
-http://litv.zapi.us.kg/?id=4gtv-4gtv002
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv002
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视新闻台.png" group-title="港澳台区",民视新闻台HD
 http://litv.zapi.us.kg/?id=litv-ftv13
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视第一台.png" group-title="港澳台区",民视第一台HD
 http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/民视台湾台.png" group-title="港澳台区",民视台湾台HD
+http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv001
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中视.png" group-title="港澳台区",中视HD
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/华视.png" group-title="港澳台区",华视HD
