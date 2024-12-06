@@ -1,44 +1,46 @@
 #EXTM3U x-tvg-url="https://e.erw.cc/all.xml,http://epg.51zmt.top:8000/gat.xml,https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV1.png" group-title="央视频道",CCTV1综合
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV2.png" group-title="央视频道",CCTV2财经
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV3.png" group-title="央视频道",CCTV3综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV4.png" group-title="央视频道",CCTV4中文国际
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV5.png" group-title="央视频道",CCTV5体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV6.png" group-title="央视频道",CCTV6电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV7.png" group-title="央视频道",CCTV7国防军事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV8.png" group-title="央视频道",CCTV8电视剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV9.png" group-title="央视频道",CCTV9纪录
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000319/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV10.png" group-title="央视频道",CCTV10科教
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV11.png" group-title="央视频道",CCTV11戏曲
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV12.png" group-title="央视频道",CCTV12社会与法
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV13.png" group-title="央视频道",CCTV13新闻
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000345/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV14.png" group-title="央视频道",CCTV14少儿
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV15.png" group-title="央视频道",CCTV15音乐
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV16.png" group-title="央视频道",CCTV16奥林匹克
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8$甘肃V6
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV17.png" group-title="央视频道",CCTV17农业农村
-http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV5+.png" group-title="央视频道",CCTV5+体育赛事
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV4-欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV4-美洲.png" group-title="央视频道",CCTV4中文国际美洲
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=$山东V6
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV4K.png" group-title="央视频道",CCTV4K
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV风云足球.png" group-title="央视付费",CCTV风云足球
 http://118.79.139.47:6000/rtp/226.0.2.225:9712
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV央视台球.png" group-title="央视付费",CCTV央视台球
@@ -49,6 +51,8 @@ http://118.79.139.47:6000/rtp/226.0.2.217:9648
 http://118.79.139.47:6000/rtp/226.0.2.227:9728
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV怀旧剧场.png" group-title="央视付费",CCTV怀旧剧场
 http://118.79.139.47:6000/rtp/226.0.2.224:9704
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV第一剧场.png" group-title="央视付费",CCTV第一剧场
+http://118.79.139.47:6000/rtp/226.0.2.221:9680
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV世界地理.png" group-title="央视付费",CCTV世界地理
 http://118.79.139.47:6000/rtp/226.0.2.222:9688
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV文化精品.png" group-title="央视付费",CCTV文化精品
@@ -62,91 +66,95 @@ http://118.79.139.47:6000/rtp/226.0.2.226:9720
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CCTV电视指南.png" group-title="央视付费",CCTV电视指南
 http://118.79.139.47:6000/rtp/226.0.2.218:9656
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/北京卫视.png" group-title="卫视频道",北京卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东方卫视.png" group-title="卫视频道",东方卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000518/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/四川卫视.png" group-title="卫视频道",四川卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/天津卫视.png" group-title="卫视频道",天津卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/山东卫视.png" group-title="卫视频道",山东卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000527/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000529/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/广东卫视.png" group-title="卫视频道",广东卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000520/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/广西卫视.png" group-title="卫视频道",广西卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000368/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/江西卫视.png" group-title="卫视频道",江西卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/河北卫视.png" group-title="卫视频道",河北卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/河南卫视.png" group-title="卫视频道",河南卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/海南卫视.png" group-title="卫视频道",海南卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东南卫视.png" group-title="卫视频道",东南卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$海南V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000023/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/云南卫视.png" group-title="卫视频道",云南卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/青海卫视.png" group-title="卫视频道",青海卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000042/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/山西卫视.png" group-title="卫视频道",山西卫视
-http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000032/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000045/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/延边卫视.png" group-title="卫视频道",延边卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000073/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/上海纪实人文.png" group-title="卫视频道",纪实人文
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000528/index.m3u8$甘肃V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000333/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/金鹰纪实.png" group-title="卫视频道",金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8$海南V6
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/快乐垂钓.png" group-title="卫视频道",快乐垂钓
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8$海南V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000648/index.m3u8?IASHttpSessionId=$山东V6
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/茶频道.png" group-title="卫视频道",茶频道
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="乐游" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/乐游.png" group-title="卫视频道",乐游
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8$海南V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002016/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/纯享4K.png" group-title="卫视频道",纯享超清4K
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/第一财经.png" group-title="卫视频道",第一财经
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/东方财经.png" group-title="卫视频道",东方财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002025/index.m3u8?IASHttpSessionId=$山东V6
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/中华特产.png" group-title="卫视频道",中华特产
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000642/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/安顺.png" group-title="贵州地方",安顺新闻
 http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="安顺公共" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/安顺.png" group-title="贵州地方",安顺公共
@@ -188,7 +196,7 @@ http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000013/index.m3u8?s
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/精彩影视.png" group-title="电影频道",精彩影视
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/city都市剧场.png" group-title="电影频道",都市剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8$海南V6
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/欢笑剧场.png" group-title="电影频道",欢笑剧场
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016
 #EXTINF:-1 tvg-name="力量影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/1905电影网.png" group-title="电影频道",1905电影网
@@ -253,8 +261,6 @@ http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/TVBS.png" group-title="港澳台区",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/非凡新闻.png" group-title="港澳台区",非凡新闻HD
-http://litv.zapi.us.kg/?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/环宇新闻.png" group-title="港澳台区",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/寰宇新闻台湾台.png" group-title="港澳台区",寰宇新闻台湾台
