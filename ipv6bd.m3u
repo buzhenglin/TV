@@ -597,8 +597,12 @@ https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 http://live.strmtzx.cn/stxw/sd/live.m3u8
 #EXTINF:-1 tvg-name="习水综合" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/习水.png" group-title="贵州地方",习水综合
 https://ali-live.xishuirm.cn/live/app2.m3u8
+#EXTINF:-1 tvg-name="习水综合" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/习水.png" group-title="贵州地方",习水综合
+http://nn.7x9d.cn/习水.php?id=xszh
 #EXTINF:-1 tvg-name="习水经济" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/习水.png" group-title="贵州地方",习水经济
 https://ali-live.xishuirm.cn/live/app3.m3u8
+#EXTINF:-1 tvg-name="习水经济" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/习水.png" group-title="贵州地方",习水经济
+http://nn.7x9d.cn/习水.php?id=xsjj
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东V6
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
