@@ -621,6 +621,12 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://118.79.139.47:6000/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-name="电影轮播-周星驰 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
+http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-name="电影轮播-周星驰 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
+http://103.45.68.47:668/huya.php/11342412
+#EXTINF:-1 tvg-name="电影轮播-周星驰 tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
+http://zby.xjqxz.top/live12/live.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/黑莓电影.png" group-title="电影频道",黑莓电影
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/黑莓电影.png" group-title="电影频道",黑莓电影
@@ -717,6 +723,12 @@ http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
+#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv011
+#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
+http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv076
+#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
+https://litv.zapi.us.kg/?id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
 http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/求索生活.png" group-title="求索自然",求索生活
@@ -927,6 +939,8 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8$甘肃V6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$黑龙江V6
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/NEWTV惊悚悬疑.png" group-title="NewTV区",惊悚悬疑
 http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/NewTV东北热剧.png" group-title="NewTV区",东北热剧
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000092/index.m3u8
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/NEWTV精品大剧.png" group-title="NewTV区",精品大剧
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8$甘肃V6
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/NEWTV精品大剧.png" group-title="NewTV区",精品大剧
