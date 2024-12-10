@@ -325,6 +325,7 @@ CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$黑龙江V6
 黑莓电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3$海南V6
+华数4K电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 北京4K电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2
 北京4K电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 北京淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg:20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
@@ -351,23 +352,13 @@ CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
 力量影院,http://xxw.me0.cn/1905dy.php?id=1905a
 力量影院,http://cdn.jdshipin.com:8880/1905ts.php?id=1905a
 力量影院,http://php.jdshipin.com:8880/1905.php?id=1905dy
-美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action电影,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/litv-longturn03
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv061
 AMC,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 影迷数位电影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
 影迷数位电影台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv011
 CatchPlay电影台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv076
@@ -387,21 +378,17 @@ CatchPlay电影台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:50
 求索科学,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011
 求索科学,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 LoveNature,http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
 港澳台区,#genre#
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -409,33 +396,26 @@ HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 镜新闻,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv075
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv072
 TVBS新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVB PLUS,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB PLUS,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv073
 TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS NEWS tvg-logo=,http://61.221.215.25:8800/hls/9/index.m3u8
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv057
 寰宇新闻台湾台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/litv-longturn15
-东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 东森新闻台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv152
 东森新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻台,http://211.72.65.236:8540/.m3u8
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视新闻,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv074
-中天综合台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天综合台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天综合台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv009
 华视新闻,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv052
+华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
 民视,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv002
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155
@@ -446,22 +426,16 @@ TVBS NEWS tvg-logo=,http://61.221.215.25:8800/hls/9/index.m3u8
 民视台湾台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv001
 民视台湾台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民视台湾台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-华视,http://litv.zapi.us.kg/?id=4gtv-4gtv052
+华视,http://litv.zapi.us.kg/?id=4gtv-4gtv041
 台视,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亚洲台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
 中天亚洲台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv109
-TVBS娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 TVBS娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 TVBS欢乐台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv068
 TVBS精采台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
 TVBS精采台,http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv067
-黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-千禧经典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 亚洲综合,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 国会频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv084
@@ -508,3 +482,33 @@ NewTV区,#genre#
 金牌综艺,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
 明星大片,http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8$甘肃V6
 明星大片,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000019008/index.m3u8?channel-id=bestzb&Contentid=1000000004000019008&livemode=1&stbId=3
+
+AKTV,#genre#
+美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+PopC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action电影,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+kix,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVBS新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVB PLUS,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+东森新闻台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天综合台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+TVBS娱乐新闻台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+千禧经典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
