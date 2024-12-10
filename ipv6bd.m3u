@@ -703,11 +703,11 @@ http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv06
 http://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/AMC.png" group-title="电影频道",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
+#EXTINF:-1 tvg-name="影迷数位电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
 http://litv.zapi.us.kg/?id=4gtv-4gtv011
-#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
+#EXTINF:-1 tvg-name="影迷数位电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/影迷数位电影台.png" group-title="电影频道",影迷数位电影台
 http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv011
-#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
+#EXTINF:-1 tvg-name="CatchPlay电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
 http://209.141.58.162:4994/proxy?url=http://209.141.58.162:5050/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CatchPlay电影台.png" group-title="电影频道",CatchPlay电影台
 https://litv.zapi.us.kg/?id=4gtv-4gtv076
@@ -983,6 +983,8 @@ http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-name="kix" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/kix.png" group-title="AKTV",KIX动作电影
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/AXN.png" group-title="AKTV",KIX动作电影
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/龙华电影.png" group-title="AKTV",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/靖天电影台.png" group-title="AKTV",靖天电影台
@@ -993,3 +995,5 @@ http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 #EXTINF:-1 tvg-name="LoveNature" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/lovenature.png" group-title="AKTV",LoveNature爱自然
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZOOMOO" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/ZOOMOO.png" group-title="AKTV",ZOOMOO
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
