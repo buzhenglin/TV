@@ -519,7 +519,7 @@ NewTV区,#genre#
 明星大片,http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8$甘肃V6
 明星大片,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000019008/index.m3u8?channel-id=bestzb&Contentid=1000000004000019008&livemode=1&stbId=3
 
-AKTV_123,#genre#
+AKTV,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
