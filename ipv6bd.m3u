@@ -629,24 +629,18 @@ http://nn.7x9d.cn/习水.php?id=xsjj
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://118.79.139.47:6000/rtp/226.0.2.93:8004
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
-http://58.19.244.92:1111/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://159.75.85.63:36666/migu/644368714.m3u8?migutoken=984dd2467c7a46d55ece8d4447d0e246f86be32ffee1e5ac9a42142469dd2de3dc91b6e573feadc590bf395c232a65a090a11592ee96df4547ae380de8cf90396ffcb6987c72ea4d395339f813&咪咕
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://118.79.139.47:6000/rtp/226.0.2.94:8012
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://58.19.244.92:1111/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://159.75.85.63:36666/migu/644368373.m3u8?migutoken=299cdea9d520b3ae4f6ceddd0b5ce677abea99b9395d810322f86c2f20b6a88be38a8d7303bac3169ab76f7b888acd52a3279d70eab265ffa980e01e291aa7f091d6addba7ee6ff13c894d5350&咪咕
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://118.79.139.47:6000/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://58.19.244.92:1111/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="电影轮播-周星驰" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
 http://182.40.120.229/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-name="电影轮播-周星驰" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/buzhenglin/TV/refs/heads/main/log/轮播-周星驰.png" group-title="电影频道",电影轮播-周星驰
