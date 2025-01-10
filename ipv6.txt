@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg.51zmt.top:8000/gat.xml,https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml,https://live.fanmingming.com/e.xml,https://epg.v1.mk/fy.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="/storage/emulated/0/xbfile/upload/log/CCTV1.png" group-title="央视频道",CCTV1综合
 http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8$陕西移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="/storage/emulated/0/xbfile/upload/log/CCTV1.png" group-title="央视频道",CCTV1综合
