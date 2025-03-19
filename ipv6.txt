@@ -12,7 +12,7 @@ http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8?$高码
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV1.png" group-title="央视频道",CCTV1综合
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$北京移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV1.png" group-title="央视频道",CCTV1综合
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$北京移动
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV1.png" group-title="央视频道",CCTV1综合
 http://qhjx.top:18000/udp/238.255.2.91:5999$贵阳电信
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/buzhenglin2025/tv/raw/master/logo/CCTV2.png" group-title="央视频道",CCTV2财经
